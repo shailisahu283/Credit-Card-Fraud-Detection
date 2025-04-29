@@ -22,7 +22,7 @@ We compare models ranging from simple Logistic Regression to advanced ensemble m
 
 ## 🔧 How to Run the Project
 
-> Run the notebook in **Google Colab** or any Jupyter environment.
+> Run the notebook in **Google Colab**(https://colab.research.google.com/drive/177deY5TrjroqM1v6xi7T5QDdN99_jYav?usp=sharing) or any Jupyter environment.
 
 ### 🛠️ Prerequisites
 
